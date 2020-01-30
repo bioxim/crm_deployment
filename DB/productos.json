@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5e1cf45618cca037c8d26c22"},"nombre":"Camisa React","precio":21,"imagen":"oGNzN7nu.jpeg","__v":0}
+{"_id":{"$oid":"5e25947cc3118304d45d73f2"},"nombre":"","precio":null,"imagen":"Ljlw5ohm.jpeg","__v":0}
+{"_id":{"$oid":"5e259559c3118304d45d73f3"},"nombre":"Camiseta VueJs","precio":25.5,"imagen":"r-4l3spM.jpeg","__v":0}
+{"_id":{"$oid":"5e25956fc3118304d45d73f4"},"nombre":"Camiseta Angular","precio":70,"imagen":"vaO3YuN2.jpeg","__v":0}
+{"_id":{"$oid":"5e259589c3118304d45d73f5"},"nombre":"Camiseta ReactJS","precio":10.27,"imagen":"LWk29TKt.jpeg","__v":0}
+{"_id":{"$oid":"5e259656c3118304d45d73f6"},"nombre":"Remera Redux","precio":5,"imagen":"gZNstPqq.jpeg","__v":0}
